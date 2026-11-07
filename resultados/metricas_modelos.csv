@@ -1,0 +1,7 @@
+modelo,MAE,RMSE,MAE_mediano,R2_treino,R2_teste,params,reducao_MAE_vs_baseline_%
+Média histórica do canal (baseline),31.84,65.452,14.398,0.101,0.163,-,0.0
+Média do grupo setor+canal+conversão (referência),26.718,58.711,9.12,,0.327,-,16.087
+k vizinhos mais próximos,24.122,57.331,7.278,0.276,0.358,"{'n_neighbors': 10, 'weights': 'uniform'}",24.239
+Árvore de regressão,25.66,61.906,6.851,0.208,0.251,"{'max_depth': 5, 'min_samples_leaf': 40}",19.407
+Floresta aleatória,23.755,58.053,6.205,0.422,0.342,"{'max_depth': 10, 'min_samples_leaf': 5}",25.392
+Regressão por vetores de suporte,24.941,59.484,7.49,0.201,0.309,"{'C': 0.3, 'epsilon': 0.3}",21.667

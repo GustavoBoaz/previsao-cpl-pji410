@@ -1,0 +1,7 @@
+etapa,linhas
+Base completa,2831
+Somente BRL (remove 3 anunciantes EUA),2676
+CPL calculavel (conversoes > 0),2330
+Remove tipo_conversao = sem_conversao,2330
+Conversoes >= 3 no mes,2157
+Investimento >= R$ 100 no mes,2008

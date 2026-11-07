@@ -1,0 +1,22 @@
+dimensao,grupo,n,cpl_real_medio,MAE_baseline,MAE_modelo,modelo_melhor_que_baseline
+setor,Educação,11,50.43,28.07,21.69,True
+setor,Indústria,32,46.94,32.52,29.0,True
+setor,Outros,2,22.08,2.54,7.14,False
+setor,Saúde e cuidado de idosos,55,94.27,64.25,51.14,True
+setor,Tecnologia B2B,11,44.92,24.74,21.23,True
+setor,Turismo,71,7.91,12.53,3.56,True
+setor,Veículos e máquinas agrícolas e de construção,23,39.62,20.76,16.96,True
+canal,google_ads,56,99.26,63.12,51.6,True
+canal,meta_ads,149,24.79,20.08,13.29,True
+objetivo,DEMAND_GEN,2,9.48,59.47,3.63,True
+objetivo,OUTCOME_AWARENESS,1,86.23,65.96,68.93,False
+objetivo,OUTCOME_ENGAGEMENT,80,9.14,12.0,3.89,True
+objetivo,OUTCOME_LEADS,68,42.3,28.93,23.53,True
+objetivo,PERFORMANCE_MAX,10,104.1,105.48,74.37,True
+objetivo,SEARCH,44,102.24,53.65,48.61,True
+tipo_conversao,formulario,45,83.54,59.72,48.5,True
+tipo_conversao,formulario_nativo_meta,30,23.7,13.73,12.4,True
+tipo_conversao,whatsapp,130,36.79,26.37,17.81,True
+etapa_funil,Fundo,112,65.85,38.64,33.38,True
+etapa_funil,Meio,92,19.47,23.19,11.54,True
+etapa_funil,Topo,1,86.23,65.96,68.93,False
