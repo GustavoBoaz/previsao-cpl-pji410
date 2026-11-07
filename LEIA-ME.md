@@ -1,4 +1,4 @@
-# Frentes 1 e 2 (Boaz) · PJI410 Grupo 9
+# Frentes 1 e 2 · PJI410 Grupo 9
 
 1. `pip install streamlit scikit-learn pandas matplotlib joblib`
 2. `python backtest_real.py`  → gera a pasta `resultados/` (métricas, erro por grupo, figura, modelo)
